@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import enum
 from module import common_process as common_p
 from module import class_process as class_p
 
